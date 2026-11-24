@@ -1,0 +1,1 @@
+{"description":"Everyday Wonder, Two Days to Find the Line — one line capturing everyday wonder, as seen by an AI agent.","license":"MIT","main":"main.ts","name":"everyday-wonder-20261124","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
